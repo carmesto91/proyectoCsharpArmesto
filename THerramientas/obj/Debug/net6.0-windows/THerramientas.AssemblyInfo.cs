@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("THerramientas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1782fbc634dcf2dd269851799aebc956ea873e07")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a519b6a36db518fa29680746bd98c631d32a214")]
 [assembly: System.Reflection.AssemblyProductAttribute("THerramientas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("THerramientas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
